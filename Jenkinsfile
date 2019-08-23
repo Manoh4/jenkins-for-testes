@@ -8,7 +8,7 @@ pipeline {
             
 			steps{
                 
-				sh "echo 'simulando um build'"
+				sh "bundle install"
             
 			}
         
